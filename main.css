@@ -2,3 +2,8 @@
 body{
   background: red;
 }
+header,
+main,
+footer{
+	margin-top: 40px;
+}
