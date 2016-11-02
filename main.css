@@ -7,3 +7,14 @@ main,
 footer{
 	margin-top: 40px;
 }
+
+h2{
+	margin: 10px;
+	padding: 10px;
+	border-bottom: 1px solid;
+	background: #666;
+}
+div{
+	text-align: center;
+	font-size: 18px;
+}
